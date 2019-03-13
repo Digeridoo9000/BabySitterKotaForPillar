@@ -1,0 +1,11 @@
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\bin\Debug\netcoreapp2.1\BabysitterCalculation.deps.json
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\bin\Debug\netcoreapp2.1\BabysitterCalculation.runtimeconfig.json
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\bin\Debug\netcoreapp2.1\BabysitterCalculation.runtimeconfig.dev.json
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\bin\Debug\netcoreapp2.1\BabysitterCalculation.dll
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\bin\Debug\netcoreapp2.1\BabysitterCalculation.pdb
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\obj\Debug\netcoreapp2.1\BabysitterCalculation.csprojAssemblyReference.cache
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\obj\Debug\netcoreapp2.1\BabysitterCalculation.csproj.CoreCompileInputs.cache
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\obj\Debug\netcoreapp2.1\BabysitterCalculation.AssemblyInfoInputs.cache
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\obj\Debug\netcoreapp2.1\BabysitterCalculation.AssemblyInfo.cs
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\obj\Debug\netcoreapp2.1\BabysitterCalculation.dll
+C:\Users\mas12\source\repos\BabysitterCalculation\BabysitterCalculation\obj\Debug\netcoreapp2.1\BabysitterCalculation.pdb
